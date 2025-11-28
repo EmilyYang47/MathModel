@@ -1,7 +1,3 @@
-Sure! Here's a README you can use for your project based on your description:
-
----
-
 # Math Expression Solver Language Model
 
 This repository contains a class project for **DS542: Deep Learning for Data Science**.
